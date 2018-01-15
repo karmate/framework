@@ -1,0 +1,34 @@
+{
+    "name": "karmate/container",
+    "description": "",
+    "keywords": ["framework", "karmate"],
+    "license": "MIT",
+    "homepage": "http://karmate.org",
+    "support": {
+        "issues": "https://github.com/karmate/framework/issues",
+        "source": "https://github.com/karmate/framework"
+    },
+    "authors": [
+        {
+            "name": "Mert Kabadayı",
+            "email": "mertkabadayi@yandex.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Karmate\\Container\\": ""
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
