@@ -1,7 +1,7 @@
 {
     "name": "karmate/framework",
     "description": "",
-    "keywords": "",
+    "keywords": ["framework", "karmate"],
     "license": "MIT",
     "type": "library",
     "homepage": "https://karmate.org",
